@@ -126,6 +126,30 @@ The trained model has been deployed for inference and prediction.
 
 
 
+\## Training Results
+
+
+
+\### Training Curves
+
+
+
+!\[Training Results](images/results.png)
+
+
+
+\---
+
+
+
+\### Confusion Matrix
+
+
+
+!\[Confusion Matrix](images/confusion\_matrix.png)
+
+
+
 \## Author
 
 
